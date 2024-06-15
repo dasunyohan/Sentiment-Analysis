@@ -55,4 +55,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ---
 
-Thank you for exploring the Sentiment Analysis with Hugging Face Transformers and BERT repository. We hope this guide helps you in building and deploying sentiment analysis models using state-of-the-art techniques and scraping large-scale text data for analysis.
+Thank you for exploring the Sentiment Analysis with Hugging Face Transformers and BERT repository. I hope this guide helps you in building and deploying sentiment analysis models using state-of-the-art techniques and scraping large-scale text data for analysis.
